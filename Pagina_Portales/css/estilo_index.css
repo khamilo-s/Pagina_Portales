@@ -1,0 +1,70 @@
+*{
+    padding: 0px;
+    margin: 0px
+
+}
+
+#Titulo_Pagina{
+    padding: 10px;
+    color: white;
+    text-align: center;
+    font-size: 155%;
+    font-family: fantasy;
+    background-color: red;
+    
+    background-image: url("logo.png");
+    background-repeat: no-repeat;
+    background-size: 30%;
+    background-position: 1%;
+}
+
+.nav-enlace{
+    display: inline-block;
+    background: white;
+    color: black;
+    padding: 10px 100px;
+    text-decoration: none;
+    border: 2px solid black;
+}
+
+nav{
+    background: black;
+    text-align: center;
+}
+
+#Titulo_cuerpo{
+    font-size: 150%;
+    color:white;
+    background-color: red;
+    text-align: center;
+}
+
+#Contenido{
+    font-family:serif;
+    font-size: 120%;
+    color: black;
+    
+    margin: 50px;
+}
+
+#Subtitulo{
+    font-size: 150%;
+    color:white;
+    background-color: red;
+    text-align: center;
+}
+
+#Contenido_Pistola{
+    font-family: serif;
+    font-size: 120%;
+    color: black;
+    
+    margin: 50px;
+}    
+
+#Contacto{
+    text-align: center;
+    font-family: monospace;
+    color: white;
+    background-color: gray;
+}
